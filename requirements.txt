@@ -1,0 +1,8 @@
+google-generativeai
+langchain
+beautifulsoup4
+spacy
+pandas
+scipy
+langchain_text_splitters
+requests
