@@ -27,4 +27,6 @@ openpyxl is used to write data into Excel files, allowing us to save embeddings 
 
 After installing these libraries, you are ready to set up your data processing pipeline for the RAG model.
 
+```
 pip3 install requests beautifulsoup4 google-generativeai pandas numpy scipy spacy langchain openpyxl
+```
